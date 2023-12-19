@@ -7,6 +7,7 @@
 #include<vector>
 #include<deque>
 #include<ctime>
+#include<unordered_map>
 using namespace std;
 
 string encript(const string& test, const vector<int>& key) {
